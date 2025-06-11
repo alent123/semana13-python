@@ -28,17 +28,6 @@
 # --------------------------------------------
 
 # --------------------------------------------
-# Cómo ejecutar
-# - Puedes ejecutar cada archivo por separado en Python 3:
-#     $ python e1.py
-#     $ python e2.py
-#     ...
-# - También puedes copiar el contenido en:
-#     https://pythontutor.com/python-debug.html
-#   para ver visualmente cómo se ejecuta paso a paso.
-# --------------------------------------------
-
-# --------------------------------------------
 # Requisitos
 # - Python 3.x
 # - No necesita librerías externas
